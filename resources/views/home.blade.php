@@ -7,7 +7,7 @@
     <a href="/category/home-care">Home Care</a>
     <a href="/category/baby-kid">Baby Kid</a>
     <hr>
-    <a href="/user/{{ $id }}/name/{{ $name }}">User Profile</a>
+    {{-- <a href="/user/{{ $id }}/name/{{ $name }}">User Profile</a> --}}
     <a href="/transaction">Transactions</a>
 </body>
 
